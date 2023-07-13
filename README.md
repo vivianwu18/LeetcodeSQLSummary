@@ -9,4 +9,4 @@ I mainly focus on **MySQL/ MSSQL Server**.
 ## Leecode SQL Questions by ID
 | No. | Title | Solution |
 | --- | ----- | -------- |
-| 176. | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution]() |
+| 176. | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](https://github.com/vivianwu18/LeetcodeSQLSummary/blob/main/176_Second_Highest_Salary.sql) |
