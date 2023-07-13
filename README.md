@@ -6,11 +6,6 @@ After finishing all **Medium** level SQL questions, I would like to summarize al
 
 I mainly focus on **MySQL/ MSSQL Server**.
 
-## Leecode SQL Questions by Topics
-| No. | Title | Solution |
-| --- | ----- | -------- |
-| a | a | a |
-
 ## Leecode SQL Questions by ID
 | No. | Title | Solution |
 | --- | ----- | -------- |
