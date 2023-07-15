@@ -1,8 +1,9 @@
 # Leetcode SQL Summary
-*Last updated: 07/13/2023*
+*Last updated: 07/15/2023*
 
 ## Introduction
 After finishing all **Medium** level SQL questions, I would like to summarize all questions by topics for better reviews.
+I plan to finish Easy and Hard level in the near future and will update them as well. I will also categorize all the questions by topics to make it easier to review and learn a specific topic.
 
 I mainly focus on **MySQL/ MSSQL Server**.
 
