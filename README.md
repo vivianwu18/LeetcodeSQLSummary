@@ -1,5 +1,5 @@
 # Leetcode SQL Summary
-*Last updated: 07/17/2023*
+*Last updated: 07/18/2023*
 
 ## Introduction
 After finishing all **Medium** level SQL questions, I would like to summarize all questions by topics for better reviews.
@@ -22,4 +22,9 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 578. | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | [Solution](Join/578_Get_Highest_Answer_Rate_Question.sql) |
 | 580. | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | [Solution](Join/580_Count_Student_Number_in_Departments.sql) |
 | 585. | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [Solution](Join/585_Investments_in_2016.sql) |
+| 602. | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](Subquery/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) |
+| 608. | [Tree Node](https://leetcode.com/problems/tree-node/) | [Solution](CaseWhen/608_Tree_Node.sql) |
+| 612. | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | [Solution](Join/612_Shortest_Distance_in_a_Plane.sql) |
+| 614. | [Second Degree Flower](https://leetcode.com/problems/second-degree-follower/) | [Solution](Join/614_Second_Degree_Follower.sql) |
+| 626. | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Solution](CaseWhen/626_Exchange_Seats.sql) |
 
