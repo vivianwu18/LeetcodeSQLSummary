@@ -27,4 +27,8 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 612. | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | [Solution](Join/612_Shortest_Distance_in_a_Plane.sql) |
 | 614. | [Second Degree Flower](https://leetcode.com/problems/second-degree-follower/) | [Solution](Join/614_Second_Degree_Follower.sql) |
 | 626. | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Solution](CaseWhen/626_Exchange_Seats.sql) |
+| 1045. | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](Subquery/1045_Customers_Who_Bought_All_Products.sql) |
+| 1070. | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](Subquery/1070_Product_Sales_Analysis_III.sql) |
+| 1077. | [Project Employees III](https://leetcode.com/problems/project-employees-iii/) | [Solution](Subquery/1077_Project_Employees_III.sql) |
+| 1098. | [Unpopular Books](https://leetcode.com/problems/unpopular-books/) | [Solution](Join/1098_Unpopular_Books.sql) |
 
