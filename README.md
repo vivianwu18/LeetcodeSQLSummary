@@ -1,5 +1,5 @@
 # Leetcode SQL Summary
-*Last updated: 07/18/2023*
+*Last updated: 07/20/2023*
 
 ## Introduction
 After finishing all **Medium** level SQL questions, I would like to summarize all questions by topics for better reviews.
@@ -31,4 +31,9 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1070. | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](Subquery/1070_Product_Sales_Analysis_III.sql) |
 | 1077. | [Project Employees III](https://leetcode.com/problems/project-employees-iii/) | [Solution](Subquery/1077_Project_Employees_III.sql) |
 | 1098. | [Unpopular Books](https://leetcode.com/problems/unpopular-books/) | [Solution](Join/1098_Unpopular_Books.sql) |
+| 1107. | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | [Solution](Subquery/1107_New_Users_Daily_Count.sql) |
+| 1112. | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | [Solution](Subquery/1112_Highest_Grade_For_Each_Student.sql) |
+| 1126. | [Active Businesses](https://leetcode.com/problems/active-businesses/) | [Solution](Subquery/1126_Active_Businesses.sql) |
+| 1132. | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | [Solution](Subquery/1132_Reported_Posts_II.sql) |
+| 1149. | [Article Views II](https://leetcode.com/problems/article-views-ii/) | [Solution](Basics/1149_Article_Views_II.sql) |
 
