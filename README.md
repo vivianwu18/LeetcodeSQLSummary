@@ -36,4 +36,8 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1126. | [Active Businesses](https://leetcode.com/problems/active-businesses/) | [Solution](Subquery/1126_Active_Businesses.sql) |
 | 1132. | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | [Solution](Subquery/1132_Reported_Posts_II.sql) |
 | 1149. | [Article Views II](https://leetcode.com/problems/article-views-ii/) | [Solution](Basics/1149_Article_Views_II.sql) |
+| 1158. | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Solution](Join/1158_Market_Analysis_I.sql) |
+| 1164. | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [Solution](Join/1164_Product_Price_at_a_Given_Date.sql) |
+| 1174. | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Solution](Join/1174_Immediate_Food_Delivery_II.sql) |
+| 1193. | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](Join/1193_Monthly_Transactions_I.sql) |
 
