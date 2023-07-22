@@ -7,6 +7,11 @@ I plan to finish Easy and Hard level in the near future and will update them as 
 
 I mainly focus on **MySQL/ MSSQL Server**.
 
+## Leecode SQL Questions by Topic
+### Basics
+| No. | Title | Solution |
+| --- | ----- | -------- |
+
 ## Leecode SQL Questions by ID
 | No. | Title | Solution |
 | --- | ----- | -------- |
