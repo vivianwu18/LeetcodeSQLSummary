@@ -8,7 +8,8 @@ I plan to finish Easy and Hard level in the near future and will update them as 
 I mainly focus on **MySQL/ MSSQL Server**.
 
 ## Leecode SQL Questions by Topic
-### Basics
+### *Basics*
+
 | No. | Title | Solution |
 | --- | ----- | -------- |
 
