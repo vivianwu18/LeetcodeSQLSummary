@@ -46,4 +46,5 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1164. | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [Solution](Join/1164_Product_Price_at_a_Given_Date.sql) |
 | 1174. | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Solution](Join/1174_Immediate_Food_Delivery_II.sql) |
 | 1193. | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](Join/1193_Monthly_Transactions_I.sql) |
+| 1204. | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Solution](Subquery/1204_Last_Person_to_Fit_in_the_Bus.sql) |
 
