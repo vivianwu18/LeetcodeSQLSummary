@@ -13,6 +13,16 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | No. | Title | Solution |
 | --- | ----- | -------- |
 
+### *Begin End*
+
+### *Case When*
+
+### *Join*
+
+### *Sbuquery*
+
+### *Window Function*
+
 ## Leecode SQL Questions by ID
 | No. | Title | Solution |
 | --- | ----- | -------- |
