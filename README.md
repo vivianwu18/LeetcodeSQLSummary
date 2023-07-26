@@ -57,4 +57,9 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1174. | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Solution](Join/1174_Immediate_Food_Delivery_II.sql) |
 | 1193. | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](Join/1193_Monthly_Transactions_I.sql) |
 | 1204. | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Solution](Subquery/1204_Last_Person_to_Fit_in_the_Bus.sql) |
+| 1205. | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | [Solution](Subquery/1205_Monthly_Transactions_II.sql) |
+| 1212. | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/) | [Solution](Subquery/1212_Team_Scores_in_Football_Tournament.sql) |
+| 1264. | [Page Recommendations](https://leetcode.com/problems/page-recommendations/) | [Solution](Subquery/1264_Page_Recommendations.sql) |
+| 1270. | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | [Solution](RecursiveCTE/1270_All_People_Report_to_the_Givne_Manager.sql) |
+| 1285. | [Find the Start and End Number of Continuous](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | [Solution](Subquery/1285_Find_the_Start_and_End_Number_of_Continuous.sql) |
 
