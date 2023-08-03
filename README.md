@@ -62,4 +62,8 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1264. | [Page Recommendations](https://leetcode.com/problems/page-recommendations/) | [Solution](Subquery/1264_Page_Recommendations.sql) |
 | 1270. | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | [Solution](RecursiveCTE/1270_All_People_Report_to_the_Givne_Manager.sql) |
 | 1285. | [Find the Start and End Number of Continuous](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | [Solution](Subquery/1285_Find_the_Start_and_End_Number_of_Continuous.sql) |
-
+| 1308. | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/) | [Solution](WindowFunction/1308_Running_Total_for_Different_Gender.sql) |
+| 1321. | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [Solution](Subquery/1321_Restaurant_Growth.sql) |
+| 1341. | [Moving Rating](https://leetcode.com/problems/movie-rating/) | [Solution](Subquery/1341_Movie_Rating.sql) |
+| 1355. | [Activity Participants](https://leetcode.com/problems/activity-participants/) | [Solution](Subquery/1355_Activity_Participants.sql) |
+| 1364. | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | [Solution](Subquery/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
