@@ -67,3 +67,8 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1341. | [Moving Rating](https://leetcode.com/problems/movie-rating/) | [Solution](Subquery/1341_Movie_Rating.sql) |
 | 1355. | [Activity Participants](https://leetcode.com/problems/activity-participants/) | [Solution](Subquery/1355_Activity_Participants.sql) |
 | 1364. | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | [Solution](Subquery/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
+| 1393. | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Solution](Subquery/1393_Capital_Gain_Loss.sql) |
+| 1398. | [Customers Who Bought Product A and B but not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | [Solution](Subquery/1398_Customers_Who_Bought_Product_A_and_B_but_not_C.sql) |
+| 1440. | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | [Solution](Join/1440_Evaluate_Boolean_Expression.sql) |
+| 1445. | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | [Solution](Join/1445_Apples_&_Oranges.sql) |
+| 1454. | [Active Users](https://leetcode.com/problems/active-users/) | [Solution](Join/1454_Active_Users.sql) |
