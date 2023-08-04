@@ -72,3 +72,7 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1440. | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | [Solution](Join/1440_Evaluate_Boolean_Expression.sql) |
 | 1445. | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | [Solution](Join/1445_Apples_&_Oranges.sql) |
 | 1454. | [Active Users](https://leetcode.com/problems/active-users/) | [Solution](Join/1454_Active_Users.sql) |
+| 1459. | [Rectangles Area](https://leetcode.com/problems/rectangles-area/) | [Solution](Join/1459_Rectangles_Area.sql) |
+| 1468. | [Calculate Salaries](https://leetcode.com/problems/calculate-salaries/) | [Solution](Join/1468_Calculate_Salaries.sql) |
+| 1501. | [Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/) | [Solution](Join/1501_Countries_You_Can_Safely_Invest_In.sql) |
+| 1532. | [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders/) | [Solution](Join/1532_The_Most_Recent_Three_Orders.sql) |
