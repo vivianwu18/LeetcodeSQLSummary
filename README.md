@@ -1,5 +1,5 @@
 # Leetcode SQL Summary
-*Last updated: 07/20/2023*
+*Last updated: 08/06/2023*
 
 ## Introduction
 After finishing all **Medium** level SQL questions, I would like to summarize all questions by topics for better reviews.
@@ -76,3 +76,6 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1468. | [Calculate Salaries](https://leetcode.com/problems/calculate-salaries/) | [Solution](Join/1468_Calculate_Salaries.sql) |
 | 1501. | [Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/) | [Solution](Join/1501_Countries_You_Can_Safely_Invest_In.sql) |
 | 1532. | [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders/) | [Solution](Join/1532_The_Most_Recent_Three_Orders.sql) |
+| 1549. | [The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/) | [Solution](Subquery/1549_The_Most_Recent_Orders_for_Each_Product.sql) |
+| 1555. | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | [Solution](Subquery/1555_Bank_Account_Summary.sql) |
+| 1596. | [The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/) | [Solution](Subquery/1596_The_Most_Frequently_Ordered_Products_for_Each_Customer.sql) |
