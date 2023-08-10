@@ -1,5 +1,5 @@
 # Leetcode SQL Summary
-*Last updated: 08/06/2023*
+*Last updated: 08/10/2023*
 
 ## Introduction
 After finishing all **Medium** level SQL questions, I would like to summarize all questions by topics for better reviews.
@@ -79,3 +79,6 @@ I mainly focus on **MySQL/ MSSQL Server**.
 | 1549. | [The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/) | [Solution](Subquery/1549_The_Most_Recent_Orders_for_Each_Product.sql) |
 | 1555. | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | [Solution](Subquery/1555_Bank_Account_Summary.sql) |
 | 1596. | [The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/) | [Solution](Subquery/1596_The_Most_Frequently_Ordered_Products_for_Each_Customer.sql) |
+| 1613. | [Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/) | [Solution](Subquery/1613_Find_the_Missing_IDs.sql) |
+| 1699. | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/) | [Solution](Subquery/1699_Number_of_Calls_Between_Two_Persons.sql) |
+| 1709. | [Biggest Window Between Visits](https://leetcode.com/problems/biggest-window-between-visits/) | [Solution](Subquery/1709_Biggest_Window_Between_Visits.sql) |
